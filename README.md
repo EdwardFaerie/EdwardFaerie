@@ -29,6 +29,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EdwardFaerie/EdwardFaerie/output/snake.svg" alt="Snake animation" />
+<img src="./github/workflows/snake.gif" width="880" height="206" alt="Snake animation" />
 
 ###
